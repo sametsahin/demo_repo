@@ -1,4 +1,4 @@
 # demo_repo title
 ## subtitle
 
-description is updated.
+description is updated
